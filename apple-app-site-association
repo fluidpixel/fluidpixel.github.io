@@ -1,12 +1,11 @@
 {
-  "activitycontinuation": {
-    "apps": [
-      "LCP5AMLC52.com.fpstudios.wiarframe"
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "LCP5AMLC52.com.fpstudios.wiarframe"
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "LCP5AMLC52.com.fpstudios.wiarframe",
+                "paths": [ "/wiarframe-redirect/*"]
+            }
+        ]
+    }
 }
